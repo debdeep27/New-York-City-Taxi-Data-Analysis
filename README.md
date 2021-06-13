@@ -25,7 +25,7 @@ Data Analysis of New York City Taxi Data for October 2013
 
 ### Note:
 If you want to run the code. Please follow the below steps:
-- There are 6 ipynb files 
+- There are 6 ipynb files (ignore files that have 'version' in them)
 - Run ny_taxi_data_cleaning.ipynb first and generate the cleaned data, which has been used for all other notebooks. (Also change the paths where you have downloaded and stored the data)
 - Analysis is done in : ny_taxi_data_analysis.ipynb
 - Fare Amount Modelling and Prediction done in: ny_taxi_data_predict_trip_fare.ipynb, ny_taxi_data_predict_trip_fare_neural_network.ipynb
